@@ -5,9 +5,13 @@
 
 ---Save the following files (保存下列文件)
 
-OS(全因死亡): model_os.pkl
+OS(全因死亡):
 
-CSS(特异性死亡): model_css.pkl
+下载model_os_.z01、model_os_.z02、model_os_.z03、model_os_.zip, 解压model_os_.zip，即可得到model_os.pkl
+
+CSS(特异性死亡): 
+
+下载model_css_.z01、model_css_.zip，解压model_css_.zip，即可得到model_css.pkl
 
 Test file: train.csv
 
